@@ -24,6 +24,6 @@
 ![ГПР презентация_Страница_06](https://github.com/user-attachments/assets/0f2b4aee-fd07-4d88-a0b2-60a361737bc3)
 
 
-## Схема базы данных и UML диаграмма бизнес-процессов
+## Схема базы данных и диаграмма бизнес-процессов
 ![ГПР презентация_Страница_12](https://github.com/user-attachments/assets/e7439e58-f71a-4262-8e2d-e8431e6f4355)
 ![ГПР презентация_Страница_11](https://github.com/user-attachments/assets/c085fcb3-ae90-4589-ae9f-39d5af3dc9e2)
