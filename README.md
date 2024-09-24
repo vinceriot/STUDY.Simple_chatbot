@@ -17,3 +17,8 @@
 Бот доступен как @bozhebot_bot в Telegram
 
 
+## Демонстрация работы 
+![ГПР презентация_Страница_03](https://github.com/user-attachments/assets/f4b07b26-25f1-4f80-8266-9630c6307cdd)
+![ГПР презентация_Страница_05](https://github.com/user-attachments/assets/cc5b5969-4bdb-41ad-a5b6-58d5fa20b92c)
+![ГПР презентация_Страница_04](https://github.com/user-attachments/assets/365d4a0d-7aa0-4a07-b861-f45a7b00729b)
+![ГПР презентация_Страница_06](https://github.com/user-attachments/assets/0f2b4aee-fd07-4d88-a0b2-60a361737bc3)
